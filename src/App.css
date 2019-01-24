@@ -198,6 +198,10 @@ a {
   border-radius: 2px;
 }
 
+.midsection-nav a span {
+  padding-left: 5px;
+}
+
 
 /* Blog Content Styles */
 
