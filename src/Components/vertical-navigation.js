@@ -7,10 +7,10 @@ class VerticalNavigation extends React.Component {
                 <VerticalNavigation>
                     <div id="sidebar-content">
                         <div>
-                            <a id="search" href="#">
+                            <a id="search" href="http://google.com">
                                 <img id="myspace-logo" src="./src/images/myspace-logo.png" alt="myspace logo"/>
                             </a>
-                            <a href="#">
+                            <a href="http://google.com">
                                 <img src="./src/images/search-icon.png" alt=""/>
                                 <span>Search</span>
                             </a>
@@ -18,35 +18,35 @@ class VerticalNavigation extends React.Component {
                             <nav>
                                 <ul>
                                     <li>
-                                        <a href="#">
-                                            <img src="./src/images/flame.png"/>
+                                        <a href="http://google.com">
+                                            <img src="./src/images/flame.png" alt="flame"/>
                                             <span>Featured</span>
                                         </a>
                                     </li>
                                     
                                     <li>
-                                        <a href="">
-                                            <img src="./src/images/music.png"/>
+                                        <a href="http://google.com">
+                                            <img src="./src/images/music.png" alt="music"/>
                                             <span>Music</span>
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="#">
-                                            <img src="./src/images/video.png"/>
+                                        <a href="http://google.com">
+                                            <img src="./src/images/video.png" alt="video"/>
                                             <span>Videos</span>
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="#">
-                                            <img src="./src/images/people.png"/>
+                                        <a href="http://google.com">
+                                            <img src="./src/images/people.png" alt="people"/>
                                             <span>People</span>
                                         </a>
                                     </li>
-                                    <button href="#">Sign Up</button>
+                                    <button href="http://google.com">Sign Up</button>
                                     <li>
-                                        <a id="sign-in" href="#">
+                                        <a id="sign-in" href="http://google.com">
                                             <span>Sign In</span>
                                         </a>
                                     </li>
