@@ -14,12 +14,12 @@ class App extends Component {
         <HorizontalNavigation />
         <div className="blog-content">
           <div className="grid-row">
-            <BlogPost />
-            <BlogPost />
-            <BlogPost />
-            <BlogPost />
-            <BlogPost />
-            <BlogPost />
+            <BlogPost image="Drake"/>
+            <BlogPost image="Posty"/>
+            <BlogPost image="Logic"/>
+            <BlogPost image="Childish" />
+            <BlogPost image="Kendrick" />
+            <BlogPost image="Future" />
           </div>
         </div>
       </div>
