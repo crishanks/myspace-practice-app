@@ -3,6 +3,7 @@ import './App.css';
 import VerticalNavigation from './Components/vertical-navigation';
 import Jumbotron from './Components/jumbotron';
 import HorizontalNavigation from './Components/horizontal-navigation';
+import BlogPost from './Components/blog-post';
 
 class App extends Component {
   render() {
@@ -11,6 +12,12 @@ class App extends Component {
         <VerticalNavigation />
         <Jumbotron />
         <HorizontalNavigation />
+        <BlogPost />
+        <BlogPost />
+        <BlogPost />
+        <BlogPost />
+        <BlogPost />
+        <BlogPost />
       </div>
     );
   }
