@@ -70,7 +70,7 @@ class BlogPost extends React.Component {
                     <h2>
                         <a href="http://google.com"> ...And We Don't Mean Time Travel</a>
                     </h2>
-                    <p>His beats are like something out of the 22nd Century! #AmIRite, broh?</p>
+                    <p>Future's beats are like something out of the 22nd Century! #AmIRite, broh?</p>
                 </div>  
             );
         } else if (this.props.image === "Kendrick") {
