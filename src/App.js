@@ -12,12 +12,16 @@ class App extends Component {
         <VerticalNavigation />
         <Jumbotron />
         <HorizontalNavigation />
-        <BlogPost />
-        <BlogPost />
-        <BlogPost />
-        <BlogPost />
-        <BlogPost />
-        <BlogPost />
+        <div className="blog-content">
+          <div className="grid-row">
+            <BlogPost />
+            <BlogPost />
+            <BlogPost />
+            <BlogPost />
+            <BlogPost />
+            <BlogPost />
+          </div>
+        </div>
       </div>
     );
   }
